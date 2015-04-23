@@ -30,3 +30,6 @@ CSS实现任意的单行(多行)垂直居中
     </div>
 </div>
 ```
+
+## Demo
+[vertical-centering](http://ufologist.github.io/css-vertical-centering/vertical-centering.html)
